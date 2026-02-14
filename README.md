@@ -15,6 +15,11 @@
 <img src="https://img.shields.io/badge/ONTOLOGICAL-ANALYSIS-FF0066?style=for-the-badge&labelColor=0D0D0D" alt="ontological">
 <img src="https://img.shields.io/badge/ROOTKIT-DETECTION-00FF41?style=for-the-badge&labelColor=0D0D0D" alt="rootkit">
 
+<a href="https://github.com/bad-antics/simulacra/stargazers"><img src="https://img.shields.io/github/stars/bad-antics/simulacra?style=for-the-badge&color=9B30FF&labelColor=0D0D0D" alt="stars"></a>
+<a href="https://github.com/bad-antics/simulacra/network/members"><img src="https://img.shields.io/github/forks/bad-antics/simulacra?style=for-the-badge&color=FF0066&labelColor=0D0D0D" alt="forks"></a>
+<a href="https://github.com/bad-antics/simulacra/issues"><img src="https://img.shields.io/github/issues/bad-antics/simulacra?style=for-the-badge&color=00FF41&labelColor=0D0D0D" alt="issues"></a>
+<img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge&labelColor=0D0D0D" alt="license">
+
 **DETECTING COPIES WITHOUT ORIGINALS**
 
 *Ontological process verification • Genealogical tracing • Temporal drift analysis • Order classification*
@@ -240,12 +245,26 @@ cd apps/simulacra-desktop
 npm install && npm run tauri build
 ```
 
+## ◈ BAUDRILLARD SUITE
+
+Part of the **Baudrillard Security Suite** — philosophical security tools for the postmodern threat landscape:
+
+| Tool | Purpose | Language |
+|:-----|:--------|:---------|
+| **simulacra** (this repo) | Rootkit detection via process ontology | Python |
+| [hyperreal](https://github.com/bad-antics/hyperreal) | Memory forensics & negative space analysis | Rust/Python |
+| [cool-memories](https://github.com/bad-antics/cool-memories) | Immutable forensic logging & evidence chains | Python |
+| [spectral](https://github.com/bad-antics/spectral) | Liminal signal analysis | Python |
+
+> *Built by [NullSec](https://github.com/bad-antics) — Security through philosophy.*
+
 ---
 
 <div align="center">
 
 *"The map precedes the territory—sometimes the process precedes itself."*
 
-**BAUDRILLARD SUITE**
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nullsec)
 
 </div>
+
